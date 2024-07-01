@@ -1,4 +1,4 @@
-## Hi there 👋, this is Xiao Liang
+### Hi there, this is Xiao Liang!👋
 
 - 🎓 I'm a second-year master's student at Tsinghua University, majoring in Data Science and Information Technology.
 - 🔭 My current research interests focus on pre-training and reinforcement learning for large language models (LLMs).
